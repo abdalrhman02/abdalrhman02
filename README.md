@@ -3,7 +3,7 @@
 <h3>A passionate frontend developer</h3>
 
 <ul>
-  <li>🖥️ Check my portfolio: <a href="https://myportfolio-abdalrhman.vercel.app/"></a></li>
+  <li>🖥️ Check my portfolio: <a href="https://myportfolio-abdalrhman.vercel.app/">https://myportfolio-abdalrhman.vercel.app/</a></li>
   <li>🙇 Currently learning | Node.js |</li>
   <li>😄 Excited for my next opportunity</li>
 </ul>
