@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Check my linkedin: <a href="https://www.linkedin.com/in/abdalrhman-abujamos-24728527b/"></a> <br />
+  Check my linkedin: <a href="https://www.linkedin.com/in/abdalrhman-abujamos-24728527b/">Linkedin Account</a> <br />
   ✉️ My email: abdalrhmandev10@gmail.com
 </p>
 
