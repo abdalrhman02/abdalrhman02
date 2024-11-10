@@ -4,14 +4,14 @@
 
 <ul>
   <li>🖥️ Check my portfolio: <a href="https://myportfolio-abdalrhman.vercel.app/"></a></li>
-  <li>💬 My email: abdalrhmandev10@gmail.com</li>
-  <li>My email: abdalrhmandev10@gmail.com</li>
+  <li>🙇 Currently learning | Node.js |</li>
+  <li>😄 Excited for my next opportunity</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Check my linkedin: <a href="https://www.linkedin.com/in/abdalrhman-abujamos-24728527b/"></a>
-  My email: abdalrhmandev10@gmail.com
+  Check my linkedin: <a href="https://www.linkedin.com/in/abdalrhman-abujamos-24728527b/"></a> <br />
+  ✉️ My email: abdalrhmandev10@gmail.com
 </p>
 
 <h3 align="left">Skills:</h3>
