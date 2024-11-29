@@ -4,7 +4,7 @@
 
 <ul>
   <li>🖥️ Check my portfolio: <a href="https://myportfolio-abdalrhman.vercel.app/">https://myportfolio-abdalrhman.vercel.app/</a></li>
-  <li>🙇 Currently learning | Node.js |</li>
+  <li>🙇 Currently learning | Next.js & Typescript |</li>
   <li>😄 Excited for my next opportunity</li>
 </ul>
 
